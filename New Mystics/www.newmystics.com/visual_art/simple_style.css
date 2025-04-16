@@ -1,0 +1,70 @@
+
+     	h1 {
+				 font-size:24px;font-weight:bold;font-family:verdana,arial;line-height:100%;
+        		}
+     	h2 {
+				 font-size:18px;font-weight:bold;font-family:verdana,arial;line-height:100%;color:#666666;
+        		}
+        h3 {
+				 font-size:16px;font-weight:bold;font-family:verdana,arial;line-height:100%;
+        		}
+       
+       .text_white_bold {
+				 font-size:12px;font-weight:bold;line-height:180%;font-family:verdana,arial,sans-serif;color:#ffffff;
+        		}
+        		
+        .text_white {
+				 font-size:12px;font-weight:normal;line-height:180%;font-family:verdana,arial,sans-serif;color:#ffffff;
+        		}
+        		
+        .text_head {
+				 font-size:16px;font-weight:bold;line-height:180%;font-family:verdana,arial,sans-serif;color:#ADD8E6;
+        		}
+
+        .text_black_bold {
+				 font-size:10px;font-weight:bold;line-height:180%;font-family:verdana,arial,sans-serif;color:#000000;
+        		}
+        .text_black {
+				 font-size:10px;font-weight:normal;line-height:180%;font-family:verdana,arial,sans-serif;color:#000000;
+        		}
+     	.text_orange {
+				 font-size:11px;font-weight:bold;line-height:190%;font-family:verdana,arial,sans-serif;color:#FF6600;
+        		} 
+        		
+  		.Fliesstext_grau {
+				 font-size:10px;line-height:130%;font-family:verdana,arial,sans-serif;color:#999999;
+        		}
+        		
+     .Fliesstext_antrazit {
+				 font-size:11px;line-height:130%;font-family:verdana,arial,sans-serif;color:#666666;
+        		}
+        .Fliesstext_antrazit_fett {
+				 font-size:11px;line-height:130%;font-weight:bold;font-family:verdana,arial,sans-serif;color:#666666;
+        		}		
+      .Fliesstext_rot {
+				 font-size:11px;line-height:130%;font-family:verdana,arial,sans-serif;color:#FF0000;
+        		}
+        		
+      .Fliesstext_weiss {
+				 font-size:11px;line-height:190%;font-family:verdana,arial,sans-serif;color:#FFFFFF;
+        		}
+       .text_orange {
+				 font-size:11px;font-weight:bold;line-height:190%;font-family:verdana,arial,sans-serif;color:#FF6600;
+        		} 
+         .Rubrik_orange {
+				 font-size:15px;font-weight:bold;line-height:130%;font-family:verdana,arial,sans-serif;color:#FF6600;
+        		}				
+        .Rubrik_antrazit {
+				 font-size:15px;font-weight:bold;line-height:130%;font-family:verdana,arial,sans-serif;color:#666666;
+        		}
+        		
+ 
+				
+				a:visited  {text-decoration:none; font-weight:bold; color:#add8e6;}
+				a:hover  {text-decoration:none; font-weight:bold; color:#ffffff;}
+				a:active  {text-decoration:none; font-weight:bold; color:#ffffff;}
+				a:link {text-decoration:none; font-weight:bold; color:#add8e6;}
+				
+				
+				
+				

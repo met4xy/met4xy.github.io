@@ -1,0 +1,23 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 13 Apr 2025 04:50:08 at https://www.newmystics.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.newmystics.com/ -O1 "C:\My Web Sites\New Mystics" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+04:52:52	Warning: 	file not stored in cache due to bogus state (broken size, expected 40502516 got 37166758): https://www.newmystics.com/media/ALivingWage.m4v.zip
+04:53:12	Error: 	"Not Found" (404) at link https://www.newmystics.com/joey/media/Crossroads.mp4.zip (from https://www.newmystics.com/joey/jester-knight.html)
+04:55:00	Warning: 	Retry after error -4 (Incorrect length (27705014 Bytes, 40185815 expected)) at link https://www.newmystics.com/media/CarloMyMentor.mp4.zip (from https://www.newmystics.com/film.html)
+04:55:00	Warning: 	Retry after error -4 (Incorrect length (37166758 Bytes, 40502516 expected)) at link https://www.newmystics.com/media/ALivingWage.m4v.zip (from https://www.newmystics.com/film.html)
+04:55:37	Error: 	"Not Found" (404) at link https://www.newmystics.com/theatre.html (from https://www.newmystics.com/news.html)
+04:55:37	Error: 	"Not Found" (404) at link https://www.newmystics.com/emerging.html (from https://www.newmystics.com/news.html)
+04:55:39	Error: 	"Not Found" (404) at link https://www.newmystics.com/documents/ClaudiaBeechman-CapeMayEssay.pdf (from https://www.newmystics.com/lit/RicCarfagna.html)
+04:55:39	Error: 	"Not Found" (404) at link https://www.newmystics.com/documents/JohnGartland-LazarusInLizardville_Pt9.pdf (from https://www.newmystics.com/lit/JimHanafan.html)
+04:55:39	Error: 	"Not Found" (404) at link https://www.newmystics.com/lit/joshuamartinwriting.blogspot.com (from https://www.newmystics.com/lit/JoshuaMartin.html)
+04:55:39	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link counters.gigya.com/wildfire/IMP/CXNID=2000002.0NXC/bT*xJmx*PTEyNjY3ODk*OTIwMDMmcHQ9MTI2Njc4OTUwMDc3NSZwPTI3MDgxJmQ9cHJvX3BsYXllcl9maXJzdF9nZW4mZz*xJm89/YjQzNjE*OTJjMDI2NDE5M2IzZDM1ZmM3MWU2MmVlYTEmb2Y9MA==.gif (from https://www.newmystics.com/music/KnightBerman.html)
+04:55:39	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link counters.gigya.com/wildfire/IMP/CXNID=2000002.0NXC/bT*xJmx*PTEyNjY3ODk*OTIwMDMmcHQ9MTI2Njc4OTUwMDc3NSZwPTI3MDgxJmQ9cHJvX3BsYXllcl9maXJzdF9nZW4mZz*xJm89/YjQzNjE*OTJjMDI2NDE5M2IzZDM1ZmM3MWU2MmVlYTEmb2Y9MA==.gif (from https://www.newmystics.com/music/KnightBerman.html)
+04:55:39	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link counters.gigya.com/wildfire/IMP/CXNID=2000002.0NXC/bT*xJmx*PTEyNjY3ODk*OTIwMDMmcHQ9MTI2Njc4OTUwMDc3NSZwPTI3MDgxJmQ9cHJvX3BsYXllcl9maXJzdF9nZW4mZz*xJm89/YjQzNjE*OTJjMDI2NDE5M2IzZDM1ZmM3MWU2MmVlYTEmb2Y9MA==.gif (from https://www.newmystics.com/music/KnightBerman.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 31 seconds : 794 links scanned, 782 files written (207189204 bytes overall) [207448248 bytes received at 626731 bytes/sec], 36.0 requests per connection
+(7 errors, 5 warnings, 0 messages)
